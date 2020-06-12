@@ -83,7 +83,9 @@ The rough path according to sir should be something like this:
 - Then you could take some higher level courses (ie, the ones that deal more with the application than the underlying things).
 - Last but not the least, take some lower level courses (ie, the ones that go deeper into the mathematics and other concepts).
 
-Sir recommended a book [Deep Learning with JavaScript](https://www.manning.com/books/deep-learning-with-javascript) that is written by the TF.js and the TF (Python) team, which beginners can use to get started.
+You can check out sir's slide deck for ML, called [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58).
+
+He also recommended a book [Deep Learning with JavaScript](https://www.manning.com/books/deep-learning-with-javascript) that is written by the TF.js and the TF (Python) team, which beginners can use to get started.
 
 ### Would you want upcoming developers to specialize in a particular field only or have a more hybrid background like you do?
 
