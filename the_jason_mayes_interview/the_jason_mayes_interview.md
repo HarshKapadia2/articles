@@ -8,17 +8,17 @@ This is a summary of the interview.
 
 Before Jason sir could enroll into a University, he had to take a gap year and work at a networking job in a school to earn money for his tuition. After that, he enrolled himself for a Master's degree in Computer Science at the University of Bristol.
 
-He got a job at a bank after graduating in 2008, but quit on the first day itself after he realised that this was not the environment he wanted to work in. He then joined 'XMOS Semiconductors Ltd' as a Web Engineer. This is where he did a lot of design, UX, multimedia production, 3D modelling, photography and much more, in addition to Web Engineering. He said that he was definitely scared of quitting his job at the bank, but he was glad that he did that because it led to him learning a LOT of things! Sometimes one has to take scary decisions for themselves, no matter what.
+He got a job at an investment bank after graduating in 2008, but quit on the first day itself after he realised that this was not the environment he wanted to work in. He then joined 'XMOS Semiconductors Ltd' as a Web Engineer. This is where he did a lot of design, UX, multimedia production, 3D modelling, photography and much more, in addition to Web Engineering. He said that that it was a scary decision to quit his first proper job with no backup plan in mind, but he was glad that he did that because it led to him learning a LOT of things! Sometimes one has to make hard decisions for themselves, no matter what, to ensure you are happier overall.
 
 While working at XMOS, he co-founded his own startup called 'Pure42' which catered to the web application and design sector. He worked from 9 am to 5 pm for XMOS and from 5 pm to 11 pm for Pure42. He combined his passion for creativity with his background in Computer Science to produce usable and well implemented digital solutions.
 
-Just as he was about to quit his job at XMOS and work at Pure42 full-time, he was very surprised at being approached for an interview at Google! He had never planned to work at Google. A [Googler](https://en.wiktionary.org/wiki/Googler) had found him because of the good [PageRank](https://en.wikipedia.org/wiki/PageRank) that his web site [jasonmayes.com](http://jasonmayes.com/) had. In the early days of his career, he made a lot of web applications for free and for charities. He also wrote some articles which he linked to his site. This increased its PageRank and it was one of the top results for 'Web Consultant' in Bristol.
+Just as he was about to quit his job at XMOS and work at Pure42 full-time, he was very surprised at being approached for an interview at Google! He had never planned to work at Google. A [Googler](https://en.wiktionary.org/wiki/Googler) had found him because of the good [PageRank](https://en.wikipedia.org/wiki/PageRank) that his web site [jasonmayes.com](http://jasonmayes.com/) had. In the early days of his career, he made a lot of web applications for free and for charities. He also wrote some articles which he linked to his site. This increased its PageRank and it was one of the top results for 'Web Consultant' in the UK.
 He decided to take it as an opportunity to practice his interview skills, because he thought that he would never get into Google! He prepared some stuff on Data Structures and Algorithms and also brushed up on some of the Computer Science knowledge that he had learnt in his University days. He told us that he was just geeking out about technology, something that he was passionate about, with his interviewers and he felt that it came across as more natural and confident to them.  
 He stood out from the others because he was a hybrid developer (technical + creative) and loved building full-stack applications combining different industries.
 
 He joined Google in 2011 as a 'Web Engineer' and has been there ever since! He has become better at writing good, neat and performant code. He loved JavaScript and he was at that role for about five and a half years. 
-At that time, he had joined the '20% project' at Google, where he could take one day off in a week to work on something that he was passionate about. Over time, his prototypes got really interesting and he started working with other teams at Google and their clients to make cool things!  
-His love for prototypes is what led him to join the 'ZOO' team for about three to four years. This team caters to Google's top 100 clients! He worked on a lot of different and new technologies to create cool and awesome prototypes, something he wasn't able to do at his previous position.  
+At that time, he had joined a number of 20% projects at Google, where he could take one day off in a week to work on something that he was passionate about. Over time, his prototypes got really interesting and he started working with other teams at Google and their clients to make cool things!  
+His love for prototypes is what led him to join the 'ZOO' team for about three to four years. This team caters to Google's top 100 clients! He worked on a lot of different and new technologies to create cool and awesome prototypes to tell their story, something he wasn't able to do at his previous position.  
 He experimented with Augmented Reality, Virtual Reality and Machine Learning (ML). He had started tinkering with Artificial Intelligence (AI) and his love for it kept growing. He was looking for ways in which he could combine his love for JavaScript and AI and this is how he landed in the TensorFlow.js (TF.js) team in December of 2019. TF.js is the [JavaScript version](https://www.tensorflow.org/js) of the [original TensorFlow](https://www.tensorflow.org/). He is the face of the TF.js team and a connection between the users and the developers. He also makes a lot of prototypes using a combination of TF.js and other cool technologies!
 
 ## TensorFlow.js Demos
@@ -51,7 +51,7 @@ TensorFlow.js demos can be found on [Codepen](http://codepen.io/topic/tensorflow
 
 Check out the ['tfjs' GitHub repo](https://github.com/tensorflow/tfjs) as well and the [web site](http://tensorflow.org/js) as well!
 
-Do use '#MadeWithTFJS' if you make a project using TF.js, so that the TF.js team can find your project easily!
+Do use '[#MadeWithTFJS](https://twitter.com/search?q=%23madewithtfjs&src=typed_query)' if you make a project using TF.js, so that the TF.js team can find your project easily!
 
 ### Teachable Machine
 
@@ -67,13 +67,13 @@ The following are a mix of some of the questions that we had prepared and the at
 
 ### How do you get innovative ideas for your prototypes?
 
-Sir said that the teleportation demo (showcased above) came to him in his dream! He had the idea and he just tried to convert it into reality. He added that it started out very simply with a body segmentation model. He made the invisibility demo (showcased above) using that and then that demo evolved to the teleportation demo by adding more technologies to it! So he said that he often started with simpler ideas and then eventually ideas grew on top of existing ideas that led him to make more prototypes.
+Sir said that the teleportation demo (showcased above) came to him in a coding dream that he sometimes has! He had the idea and he just tried to convert it into reality. He added that it started out very simply with a body segmentation model. He made the invisibility demo (showcased above) using that and then that demo evolved to the teleportation demo by adding more technologies to it! So he said that he often started with simpler ideas and then eventually ideas grew on top of existing ideas that led him to make more prototypes.
 
 Another good way to get ideas is to try and solve problems that you or other people are facing in day-to-day life. He made the clothing size estimator demo (showcased above) because he isn't good at buying clothes and he just wanted to make the process simpler for himself.
 
 ### How can one get started with AI?
 
-Jason sir believes in a top-down approach, sort of like peeling an onion from the outer layers to the core.  
+Jason sir believes in a top-down approach, sort of like peeling an onion from the outer layers to the core. (The opposite of what he would suggest for learning to code.)
 Knowing how to use a technology at a higher level is helpful for when you start digging deeper to understand how it works. This also lowers the barrier of entering the domain as sometimes the initial frustration of learning too many things is what drives away a lot of people. This is true for almost all technology domains.
 
 The rough path according to sir should be something like this:
@@ -94,7 +94,7 @@ If you say that you are 'Passionate about ML for Music creation' rather than 'A 
 
 ### What is the importance of networking?
 
-Networking at times is more important than your degree. The degree and the marks are required to pass the interview, but sometimes you might not get the interview without knowing the person who is hiring. It can be as simple as introducing yourself to an interviewer so that they know that you exist.
+Networking at times is more important than your degree. The degree and the marks are required to pass the interview, but sometimes you might not get the interview without knowing the person who is hiring. It can be as simple as building up a reputation with an interviewer so that they know that you exist and also be familiar with the quality of your coding skills and innovative thinking via the projects you post.
 
 In sir's case, Google knew about him because he wrote for blogs and magazines (which in turn increased the PageRank of his website). He also did a lot of charity work which helped him grow his network by word-of-mouth, which goes a long way! (So good can come from being good!)
 
@@ -139,7 +139,7 @@ Things don't always work out and the key thing is to approach the problem positi
 The immediate reply was that if he changed anything, he would not be where he is today.
 
 He said that he didn't regret anything and thoroughly enjoyed his time working in startups!  
-He highly recommends exploring startups, especially when they're younger because they have lesser commitments financial backing from family as well. As you grow older these things start to matter and so working for a bigger company is better because you will have a stable income. With a startup, you learn a lot and if you mess up, the consequences are very real. The added responsibility makes you learn a lot very fast. These learnings can then be applied to bigger companies as well, because you might tend to use lesser resources which saves the company money and improve their performance as well.
+He highly recommends exploring startups, especially when younger, because you have fewer financial commitments and obligations - such as having a family, owning a house, etc. As you grow older these things start to matter and so working for a bigger company is better because you will have a stable income. With a startup, you learn a lot and if you mess up, the consequences are very real. The added responsibility makes you learn a lot very fast. These learnings can then be applied to bigger companies as well, because you might tend to use lesser resources which saves the company money and improve their performance as well.
 
 He prefers going from a startup to a large company and not vice versa, because if one directly started at Google, they would already have all the freebies and backup plans before experiencing the hardships that one faces at startups.
 
