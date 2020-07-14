@@ -87,7 +87,7 @@ Ali also recommended reading programming books. He does that himself. Even thoug
 
 Ali also suggested having a 80-20 blend, with 80% focus on the project and 20% focus on the underlying aspects of the project. This way one will not learn only what is required in the project, but will also have some knowledge about the concept.
 
-## What are Ali's views on course and professional certificates?
+## What value do course and professional certificates provide?
 
 He made his opinion on certificates very clear through two posts ([#1](https://www.linkedin.com/posts/ialimustufa_unpopular-opinion-students-activity-6665586501444861952-EyP-) and [#2](https://www.linkedin.com/posts/ialimustufa_certifications-students-developers-activity-6664515369413279744-ojo7)) on LinkedIn. Nothing more needs to be said!
 
@@ -97,13 +97,13 @@ One should acknowledge the mistake, reflect upon it, apologize to people and try
 
 Ignore the haters. One's followers do understand the fact that they made a mistake and if they acknowledge and apologize for their mistake, people do forgive them.
 
-## How does Ali manage his time?
+## How can one manage their time?
 
 Ali is very intentional with where he puts in his time and he avoids 'rescue missions'.
 
 'Rescue missions' are situations or things which have been delayed so much that all available time has to be devoted to that one task, leaving all other things aside. He really avoids those patterns from building in his schedule.
 
-## From a hiring perspective, which qualities in a person impress Ali the most?
+## From a hiring perspective, which qualities in a person are the most impressive?
 
 - Humbleness & politeness
 - Ability to adapt, learn and implement things
