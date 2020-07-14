@@ -154,7 +154,7 @@ If what you're doing feels like work, then it is not what you should be doing. D
 All the demos that he had made, were made in his spare time, ie, on the weekends, because it didn't feel like work to him (even though it was sort of his job to create them) and he would've made them even if he wasn't in the role that he currently is (Senior Developer Advocate for TF.js at Google).  
 It took him five and a half years after starting to work for Google to find the correct team to be in (the ZOO team) so that he could make prototypes for 100% of his time! It takes perseverance to find the right opportunity and teams and then to prove your worth. So a combination of skills would make you stand out more (Eg: 'JavaScript lover with expertise in music applications' is better than 'JavaScript lover' or 'Software Engineer').
 
-So that was the summary of all the important questions! I hope you got an insight into Jason sir's mind!
+So that was the summary of all the important questions! I hope you got an insight into Jason sir's mind! The interview can be found on [YouTube](https://www.youtube.com/watch?v=tbc-Rvfg2nE) as well.
 
 You can follow him on [Twitter](https://twitter.com/jason_mayes) and [LinkedIn](https://www.linkedin.com/in/creativetech/)! 
 
