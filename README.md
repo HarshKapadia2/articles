@@ -8,3 +8,4 @@ Original hosting site(s) for each article is listed in the `README.md` file in t
 
 - [The Jason Mayes Interview](the_jason_mayes_interview)
 - [The Ali Mustufa Shaikh Interview](the_ali_mustufa_shaikh_interview)
+- [Chirag Nayyar on Getting Started with Cloud.](chirag_nayyar_on_getting_started_with_cloud)
